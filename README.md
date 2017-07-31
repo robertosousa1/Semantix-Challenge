@@ -11,7 +11,7 @@ Realizar a instalação do Python versão 3.6
 Fazer o download do repositório
 Descompactar o arquivo
 Acesse a pasta já descompactada (Interns-Challenge-master) pelo bash
-Nesse ponto da pasta encontrará os arquivos: edges.dat, README.md, PythonApplication.py e PythonApplication.pyproj
+Nesse ponto da pasta encontrará os arquivos: edges.dat, README.md e PythonApplication.py 
 Por fim, execute o comando: python PythonApplication.py
 Executar o script em S.O. Windows:
 
@@ -19,5 +19,5 @@ Realizar a instalação do Python versão 3.6
 Fazer o download do repositório
 Descompactar o arquivo
 Acesse a pasta já descompactada (Interns-Challenge-master) pelo cmd
-Nesse ponto da pasta encontrará os arquivos: edges.dat, README.md, PythonApplication.py e PythonApplication.pyproj
+Nesse ponto da pasta encontrará os arquivos: edges.dat, README.md e PythonApplication.py 
 Por fim, execute o comando: python PythonApplication.py
